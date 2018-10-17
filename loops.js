@@ -1,25 +1,26 @@
 // For-loop functions
-let sum=0;
-let n=100;
-let i=1
-for(i <-n ){
-sum=sum+1;
-i++;
 
-
+function possitiveIntSum(limit){
+let sum= 0
+for(let i=1; i<=limit;i++)
+sum=sum+1
 }
+return sum;
 
-
-function additionPatternSum(/* Give it three inputs */){
-
+function additionPatternSum(start, diff, limit){
+let start;
+let limit= 100;
+let sum= 0;
+for(let i= start; i<=limit; i=i+diff){
+      sum=sum+i;
 }
-
+return sum;
 
 
 
 // While-loop function
 
-function multiplicationPatternSum(/* Give it three inputs */){
+function multiplicationPatternSum(){
 
 
 }
