@@ -33,20 +33,19 @@ For each questions, type the answer instead of the question-mark (?) once you us
 -  **Q1:**  1 + 2 + 3 + 4 + ... + 1500 = 1125750
 
 
--  **Q2:**  1 + 2 + 3 + 4 + ... + 2000000 = 1678608711
+-  **Q2:**  1 + 2 + 3 + 4 + ... + 2000000 = 2000001000000
 
 
--  **Q3:**  -80 + -20 + 40 + 100 + ... (s) = ?
+-  **Q3:**  -80 + -20 + 40 + 100 + ... (50 times) = 75400
 
 
--  **Q4:**  4 + 12 + 36 + 108 + ... + (under 50,000) = ?
+-  **Q4:**  4 + 12 + 36 + 108 + ... + (under 50,000) = 416674999
 
 
--  **Q5:**  7 + 14 + 28 + 56 + ... + (under 50,000) = ?
+-  **Q5:**  7 + 14 + 28 + 56 + ... + (under 50,000) = 57337
 
 
 -  **Q6:**  Which answer was larger, question 2 or question 3?  Why do you think so?
+Question 2 is larger because it took longer to reach it max while question 30 had a difference of 60
 
-
--  **Q7:**  2 + -6 + 18 + -54 + 162 + ... (under 1000000)= ?
-
+-  **Q7:**  2 + -6 + 18 + -54 + 162 + ... (under 1000000)= -265720
